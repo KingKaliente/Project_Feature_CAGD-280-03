@@ -5,7 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Levels/TestLevel.umap"
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Levels/TestLevel.umap",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/player/BP_PlayerController.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/player/BP_Player.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/Enums/Abilities.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/BP_GameInstance.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/Components/CB_Passive.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/Enemy+Friend/BP_Enemy.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/Enemy+Friend/M_EnemyColor.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/player/AbilitiesProjectiles/BP_Ability1.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/player/AbilitiesProjectiles/M_A1.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/player/AbilitiesProjectiles/M_A2.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/player/AbilitiesProjectiles/BP_Ability2.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/player/BP_Player2.uasset",
+				"C:/Games/Project_Feature/Project_Feature_CAGD-280-03/FeaturedProject/Content/Blueprints/player/BP_PlayerMain.uasset"
 			]
 		}
 	]
